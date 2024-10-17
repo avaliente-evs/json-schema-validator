@@ -12,7 +12,7 @@ endif ()
 
 # TODO: Version 3, rename the project and namespace to something more compact
 project(nlohmann_json_schema_validator
-        VERSION 2.3.0
+        VERSION 2.3.1
         DESCRIPTION "Json validator for nlohmann::json library"
         HOMEPAGE_URL "https://github.com/pboettch/json-schema-validator"
         LANGUAGES CXX)
